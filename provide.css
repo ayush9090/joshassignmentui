@@ -1,0 +1,54 @@
+.provi{
+    display: flex;
+}
+.prov{
+    width: 50%;
+    height: 70%;
+    margin-top: 6.5rem;
+}
+.provision{
+    width: 50%;
+    height: 55%;
+    margin-top: 6.5rem;
+}
+.heading{
+    height: 35%;
+    width: 80%;
+    margin-top: 6.5rem;
+    font-size: 35px;
+    
+  
+}
+.notes{
+    height: 25%;
+    width: 80%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    
+}
+.tips{
+    height: 40%;
+    width: 80%;
+    display:flexbox;
+    align-items: center;
+    justify-content: center;
+    
+}
+.tip{
+    height: 25%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+   
+
+}
+.crossimg{
+    height: 40%;
+    width: 5%;
+    margin: 0 auto;
+}
+.set{
+    margin: 0 auto;
+    margin-top: 1 rem;
+}

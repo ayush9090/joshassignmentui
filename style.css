@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+}
+.landingpage{
+    overflow: auto;
+}
+.homepage{
+    height: 100vh;
+    width: 100vw;
+    border: 1 px solid black;
+}
+.provide{
+    height: 100vh;
+    width: 100vw;
+    border: 1 px solid black;
+}
+.plans{
+    height: 100vh;
+    width: 100vw;
+    border: 1 px solid black;
+}
+.workspace{
+    height: 100vh;
+    width: 100vw;
+    border: 1 px solid black;
+}
+.happycus{
+    height: 100vh;
+    width: 100vw;
+    border: 1 px solid black;
+}
+.about{
+    height: 100vh;
+    width: 100vw;
+    border: 1 px solid black;
+}
+
